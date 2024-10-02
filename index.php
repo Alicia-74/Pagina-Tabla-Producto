@@ -18,7 +18,7 @@ $query = mysqli_query($con, $sql);
     <title>Acceso a datos</title>
     <style>
         table {
-            width: 50%;
+            width: 55%;
             margin: 20px auto;
             border-collapse: collapse;
         }
